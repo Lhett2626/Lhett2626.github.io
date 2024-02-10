@@ -3,3 +3,5 @@ A portfolio showing my data science capabilities. This repository is designed to
 
 
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/GG-Credit_Score.ipynb"> Project </a>
+<a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/GG-Credit_Score.ipynb"> Project_NB </a>
+
