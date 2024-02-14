@@ -37,3 +37,12 @@ Titanic Classification <br>
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Sale%20prediction.ipynb"> Titanic Classification </a> <br>
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Sale%20prediction.ipynb" target="_blank"> Titanic Classification NB </a>
 
+NYC Temp V Energy <br>
+<a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/NYC%20Temp%20V%20Energy.ipynb"> Titanic Classification </a> <br>
+<a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/NYC%20Temp%20V%20Energy.ipynb" target="_blank"> Titanic Classification NB </a>
+
+
+
+
+
+
