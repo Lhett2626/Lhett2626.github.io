@@ -1,6 +1,10 @@
 # Lhett2626.github.io <br>
 A portfolio showing my data science capabilities. This repository is designed to demonstrate my capabilities as a data Scientist. <br>
 
+Predicting Bicycle Traffic <br>
+<a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Predicting%20Bicycle%20Traffic.ipynb"> Predicting Bicycle Traffic </a> <br>
+<a href="" target="_blank"> Predicting Bicycle Traffic </a>
+
 Bird Baths <br>
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Bird%20Baths.ipynb"> Bird Baths </a> <br>
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Bird%20Baths.ipynb" target="_blank"> Bird Baths NB </a>
@@ -38,8 +42,22 @@ Titanic Classification <br>
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Sale%20prediction.ipynb" target="_blank"> Titanic Classification NB </a>
 
 NYC Temp V Energy <br>
-<a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/NYC%20Temp%20V%20Energy.ipynb"> Titanic Classification </a> <br>
-<a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/NYC%20Temp%20V%20Energy.ipynb" target="_blank"> Titanic Classification NB </a>
+<a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/NYC%20Temp%20V%20Energy.ipynb"> NYC Temp V Energy </a> <br>
+<a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/NYC%20Temp%20V%20Energy.ipynb" target="_blank"> NYC Temp V Energy NB </a>
+
+NYC Weather V Energy <br>
+<a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/NYC%20Weather%20V%20Energy.ipynb"> NYC Weather V Energy </a> <br>
+<a href="" target="_blank"> NYC Weather V Energy NB </a>
+
+News prediction <br>
+<a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/News%20prediction.ipynb"> News prediction </a> <br>
+<a href="" target="_blank"> News prediction NB </a>
+
+
+
+
+
+
 
 
 
