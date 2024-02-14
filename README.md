@@ -33,7 +33,7 @@ Predicting Heart Failure <br>
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Predicting%20Heart%20Failure.ipynb"> Predicting Heart Failure </a> <br>
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Predicting%20Heart%20Failure.ipynb" target="_blank"> Predicting Heart Failure NB </a>
 
-Titanic Classification
+Titanic Classification <br>
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Sale%20prediction.ipynb"> Titanic Classification </a> <br>
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Sale%20prediction.ipynb" target="_blank"> Titanic Classification NB </a>
 
