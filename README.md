@@ -59,6 +59,8 @@ News prediction <br>
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/News%20prediction.ipynb"> News prediction </a> <br>
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/News%20prediction.ipynb" target="_blank"> News prediction NB </a>
 
+Spelling Bee Solver <br>
+
 
 
 
