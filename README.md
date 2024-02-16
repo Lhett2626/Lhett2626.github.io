@@ -8,6 +8,9 @@ This project uses <a href="https://www.ncdc.noaa.gov/cdo-web/search"> NOAA weath
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Predicting%20Bicycle%20Traffic.ipynb"> Predicting Bicycle Traffic </a> <br>
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Predicting%20Bicycle%20Traffic.ipynb" target="_blank"> Predicting Bicycle Traffic </a>
 
+Kenpom <br>
+
+
 Bird Baths <br>
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Bird%20Baths.ipynb"> Bird Baths </a> <br>
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Bird%20Baths.ipynb" target="_blank"> Bird Baths NB </a>
