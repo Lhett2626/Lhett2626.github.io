@@ -2,6 +2,10 @@
 A portfolio showing my data science capabilities. This repository is designed to demonstrate my capabilities as a data Scientist. <br>
 
 Predicting Bicycle Traffic <br>
+<br>
+This project uses <a href="https://www.ncdc.noaa.gov/cdo-web/search"> NOAA weather data </a> and <a href="https://data.seattle.gov"> Seattle public data </a>. The goal is to predict Fremont Bridge, Seattle, Washington bike traffic. Weather, holiday, day of week, seasonality variables 
+
+
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Predicting%20Bicycle%20Traffic.ipynb"> Predicting Bicycle Traffic </a> <br>
 <a href="" target="_blank"> Predicting Bicycle Traffic </a>
 
