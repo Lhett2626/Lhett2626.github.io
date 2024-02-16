@@ -18,7 +18,7 @@ Yelp and Google Reviews <br>
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Review%20Project/Google_reviews.ipynb" target="_blank"> Google Reviews NB </a> <br>
 
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Review%20Project/Yelp_API.ipynb"> Yelp Reviews </a> <br>
-<a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Review%20Project/Yelp_API.ipynb" target="_blank"> Yelp Reviews </a> <br>
+<a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Review%20Project/Yelp_API.ipynb" target="_blank"> Yelp Reviews NB </a> <br>
 
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Review%20Project/Analyze.ipynb"> Analyze </a> <br>
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Review%20Project/Analyze.ipynb" target="_blank"> Analyze NB </a> <br>
