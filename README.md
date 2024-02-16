@@ -5,9 +5,8 @@ Predicting Bicycle Traffic <br>
 <br>
 This project uses <a href="https://www.ncdc.noaa.gov/cdo-web/search"> NOAA weather data </a> and <a href="https://data.seattle.gov"> Seattle public data </a>. The goal is to predict Fremont Bridge, Seattle, Washington bike traffic. Weather, holiday, day of week, seasonality variables 
 
-
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Predicting%20Bicycle%20Traffic.ipynb"> Predicting Bicycle Traffic </a> <br>
-<a href="" target="_blank"> Predicting Bicycle Traffic </a>
+<a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Predicting%20Bicycle%20Traffic.ipynb" target="_blank"> Predicting Bicycle Traffic </a>
 
 Bird Baths <br>
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Bird%20Baths.ipynb"> Bird Baths </a> <br>
@@ -51,11 +50,11 @@ NYC Temp V Energy <br>
 
 NYC Weather V Energy <br>
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/NYC%20Weather%20V%20Energy.ipynb"> NYC Weather V Energy </a> <br>
-<a href="" target="_blank"> NYC Weather V Energy NB </a>
+<a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/NYC%20Weather%20V%20Energy.ipynb" target="_blank"> NYC Weather V Energy NB </a>
 
 News prediction <br>
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/News%20prediction.ipynb"> News prediction </a> <br>
-<a href="" target="_blank"> News prediction NB </a>
+<a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/News%20prediction.ipynb" target="_blank"> News prediction NB </a>
 
 
 
