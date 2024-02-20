@@ -109,8 +109,8 @@ Craiglist Car Search <br>
 
 This project shows my ability to scrape webpages and aquire data. For this project, I scraped craiglist for used car information and created a tabular dataset of car data.
 
-<a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Craiglist%20Scraper.ipynb"> Google Reviews </a> <br>
-<a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Craiglist%20Scraper.ipynb" target="_blank"> Google Reviews NB </a> <br>
+<a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Craiglist%20Scraper.ipynb"> Craiglist Car Search </a> <br>
+<a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Craiglist%20Scraper.ipynb" target="_blank"> Craiglist Car Search NB </a> <br>
 
 Spelling Bee Solver <br>
 
