@@ -37,6 +37,13 @@ This project uses email bodies with a spam/not spam indicator to train a niave b
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Building%20s%20SMS%20spam%20detector.ipynb"> Email spam detector </a> <br>
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Building%20s%20SMS%20spam%20detector.ipynb" target="_blank"> Email spam detector NB </a>
 
+Titanic Classification <br>
+
+The goal is to create a classification model that predicts Titanic passenger survival. A k-nearest neighbors clustering algorithm and an extreme gradient boost model are both trained on passenger information. The extreme graident boost model had a 85% accuracy rate.
+
+<a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Sale%20prediction.ipynb"> Titanic Classification </a> <br>
+<a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Sale%20prediction.ipynb" target="_blank"> Titanic Classification NB </a>
+
 Customer Churn Rate <br>
 
 A random forest classification model and a extreme gradient boost classification model are used to predict whether a customer churned or not. The random forest classification model had a slightly better preformance.
@@ -46,15 +53,21 @@ A random forest classification model and a extreme gradient boost classification
 
 Credit scoring (Non-payment) <br>
 
+The project's goal is to predict customer who will not pay their loan debt within 90 days. I trained a random forest classifier and achieved an 83% accuracy rate in this project.
+
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Credit_Score.ipynb"> Credit scoring (Non-payment) </a> <br>
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Credit_Score.ipynb" target="_blank"> Credit scoring (Non-payment) NB </a>
 
 Diabetes Prediction <br>
 
+This projects goal was to predict diabetes using the patients historical medical information. A extreme gradient boost classification model was trained on this dataset. This project shows my programatic ability to evaluate model performance. I used a variety of metrics to evaluate model performance.
+
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Forest_Cover_Classification.ipynb"> Diabetes Prediction </a> <br>
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Diabetes%20Prediction.ipynb" target="_blank"> Diabetes Prediction NB </a>
 
 Forest cover <br>
+
+The goal is to predict the forest cover type from strictly cartographic variables. The categorical independent variables were transformed using a label encoder. Both a random forest classifier and extreme gradient boost classifier model were used to predict forest cover type. The random forest classifier dramatically outperformed the extreme gradient boost model.
 
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Diabetes%20Prediction.ipynb"> Forest cover </a> <br>
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Forest_Cover_Classification.ipynb" target="_blank"> Forest cover NB </a>
@@ -66,25 +79,28 @@ Metro Interstate Traffic Volume <br>
 
 Predicting Heart Failure <br>
 
+The goal is to build a classification model that predicts heart disease from health information. 
+
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Predicting%20Heart%20Failure.ipynb"> Predicting Heart Failure </a> <br>
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Predicting%20Heart%20Failure.ipynb" target="_blank"> Predicting Heart Failure NB </a>
 
-Titanic Classification <br>
-
-<a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Sale%20prediction.ipynb"> Titanic Classification </a> <br>
-<a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Sale%20prediction.ipynb" target="_blank"> Titanic Classification NB </a>
-
 NYC Temp V Energy <br>
+
+The goal for this project was to predict New York City energy consumption based on tempature. Energy does not have a linear relationship with tempature. Higher tempatures require energy for air conditioning while lower tempature require energy for heating. As warm tempatures cool or cold tempatures warm, less energy is required. This project shows my ability to use polynomials to predict non-linear relationships.
 
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/NYC%20Temp%20V%20Energy.ipynb"> NYC Temp V Energy </a> <br>
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/NYC%20Temp%20V%20Energy.ipynb" target="_blank"> NYC Temp V Energy NB </a>
 
 NYC Weather V Energy <br>
 
+This project evaluate New York City energy consumption and its realtionship to other weather variables. It is an expansion on the NYC Temp V Energy project. The project compares prediction accuracy between a random forest regressor and extreme gradient boost regressor. The extreme gradient boost regressor boost regressor slightly outperformed the random forest regressor model.
+
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/NYC%20Weather%20V%20Energy.ipynb"> NYC Weather V Energy </a> <br>
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/NYC%20Weather%20V%20Energy.ipynb" target="_blank"> NYC Weather V Energy NB </a>
 
 News prediction <br>
+
+This project uses news articles to create a model that can predict the news articles catagory. The news article's body is TF-IDF count vectorized to show the count and significance of each word. This information is used to train a niave bayes model to predict an article's genre. The niave bayes model has a 84% accuracy rate. This dataset came from <a href="https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_20newsgroups.html"> sklearn 20newsgroups </a>
 
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/News%20prediction.ipynb"> News prediction </a> <br>
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/News%20prediction.ipynb" target="_blank"> News prediction NB </a>
@@ -104,6 +120,8 @@ This project shows my ability to scrape webpages and aquire data. For this proje
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Craiglist%20Scraper.ipynb" target="_blank"> Google Reviews NB </a> <br>
 
 Spelling Bee Solver <br>
+
+This was a fun project where I build a program to find all solutions for the <a href="https://www.nytimes.com/puzzles/spelling-bee"> NY Times Spelling Bee </a> <br>
 
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Spelling_Bee_Solver.ipynb"> Spelling Bee Solver </a> <br>
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Spelling_Bee_Solver.ipynb" target="_blank"> Spelling Bee Solver NB </a>
