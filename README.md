@@ -12,7 +12,7 @@ A pipeline is used to encode categorical and scale continous variable during the
 
 Kenpom NCAA Basketball Predicter <br>
 
-In this project I aquires Kenpom college basketball statistics using webscraping and uses it to predict college basketball games. Kenpom has updated its website and this code will not work anymore. To update this project, I would have to use a package such as selenium or playwright to parse Kenpom's updated webpage. <br>
+Kenpom college basketball statistics is aquired using webscraping and uses it to predict college basketball games. Kenpom has updated its website and this code will not work anymore. To update this project, I would have to use a package such as selenium or playwright to parse Kenpom's updated webpage. <br>
 
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Kenpom_Scraper.ipynb"> Kenpom NCAA Basketball Predicter </a> <br>
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Kenpom_Scraper.ipynb" target="_blank"> Kenpom NCAA Basketball Predicter NB </a>
@@ -32,10 +32,14 @@ Google and Yelp review date was used to train a niave bayes model to predict a s
 
 Email spam detector <br>
 
+This project uses email bodies with a spam/not spam indicator to train a niave bayes model and a logistic regression model. A countvectorizer is used to transform the data into matrix of token counts. The matrix is used to train the dataset and test the datasets results. The niave bayes model had a accuracy rate of 97%. The niave bayes model outperformed the logistic regression model regression model which only had a 96% accuracy rate.
+
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Building%20s%20SMS%20spam%20detector.ipynb"> Email spam detector </a> <br>
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Building%20s%20SMS%20spam%20detector.ipynb" target="_blank"> Email spam detector NB </a>
 
 Customer Churn Rate <br>
+
+A random forest classification model and a extreme gradient boost classification model are used to predict whether a customer churned or not. The random forest classification model had a slightly better preformance.
 
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Churn_Risk.ipynb"> Customer Churn Rate </a> <br>
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Building%20s%20SMS%20spam%20detector.ipynb" target="_blank"> Customer Churn Rate NB </a>
