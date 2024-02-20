@@ -1,6 +1,18 @@
 # Lhett2626.github.io <br>
 A portfolio showing my data science capabilities. This repository is designed to demonstrate my capabilities as a data Scientist. <br>
 
+<b> NCAA Basketball Prediction Model </b> <br>
+
+The project's goal is to determine if a statistical model is better than intuition at predicting NCAA Division 1 Basketball March Madness scores. Before each round of the 2022 March Madness tournament, I intuitively guessed March Madness team scores using my previous basketball knowledge. The intuitive predictions were then compared to a statistical model to determine accuracy. <br>
+
+The statistical model used was a light gradient boosted model. The features included historical averages of advanced and basic box score statistics for the given team, the given team's opponent, and the given team's previous opponents. The model was trained on NCAA Division 1 regular season and post-season data from 2015 to 2022, excluding the 2022 post-season tournament.<br>
+
+Ultimately, the light gradient boosted model outperformed my intuition. My intuition's mean absolute percentage error was 18.95 percent. The mean absolute error for the light gradient boosted model was 14.9 percent. The model predicted games with over 5 percent greater accuracy. <br>
+
+<a href="https://github.com/Lhett2626/Capstone/tree/main"> GitHub Repository </a>
+
+<a href="https://github.com/Lhett2626/Capstone/blob/main/Liam%20Hettinger%20Capstone%20Final.pdf"> PDF writing </a>
+
 <b> Predicting Bicycle Traffic </b> <br>
 <br>
 This project uses <a href="https://www.ncdc.noaa.gov/cdo-web/search"> NOAA weather data </a> and <a href="https://data.seattle.gov"> Seattle public data </a>. The goal is to predict Fremont Bridge, Seattle, Washington bike traffic using weather, holiday, day of week, and seasonality independent variables. The project data was aquired through the Seattle public data and NOAA weather API. <br>
