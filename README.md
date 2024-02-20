@@ -77,13 +77,6 @@ Metro Interstate Traffic Volume <br>
 <a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Metro%20Traffic.ipynb"> Metro Interstate Traffic Volume </a> <br>
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Metro%20Traffic.ipynb" target="_blank"> Metro Interstate Traffic Volume NB </a>
 
-Predicting Heart Failure <br>
-
-The goal is to build a classification model that predicts heart disease from health information. 
-
-<a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Predicting%20Heart%20Failure.ipynb"> Predicting Heart Failure </a> <br>
-<a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Predicting%20Heart%20Failure.ipynb" target="_blank"> Predicting Heart Failure NB </a>
-
 NYC Temp V Energy <br>
 
 The goal for this project was to predict New York City energy consumption based on tempature. Energy does not have a linear relationship with tempature. Higher tempatures require energy for air conditioning while lower tempature require energy for heating. As warm tempatures cool or cold tempatures warm, less energy is required. This project shows my ability to use polynomials to predict non-linear relationships.
