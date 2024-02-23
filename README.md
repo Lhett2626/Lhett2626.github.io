@@ -1,4 +1,4 @@
-# Lhett2626.github.io <br>
+# Liam Hettinger's Data Science Portfolio <br>
 A portfolio showing my data science capabilities. This repository is designed to demonstrate my capabilities as a data Scientist. <br>
 
 <b> NCAA Basketball Prediction Model </b> <br>
