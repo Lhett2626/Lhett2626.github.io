@@ -74,14 +74,14 @@ The project's goal is to predict customer who will not pay their loan debt withi
 
 This projects goal was to predict diabetes using the patients historical medical information. A extreme gradient boost classification model was trained on this dataset. This project shows my programatic ability to evaluate model performance. I used a variety of metrics to evaluate model performance.
 
-<a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Forest_Cover_Classification.ipynb"> Diabetes Prediction </a> <br>
+<a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Diabetes%20Prediction.ipynb"> Diabetes Prediction </a> <br>
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Diabetes%20Prediction.ipynb" target="_blank"> Diabetes Prediction NB </a>
 
 <b> Forest cover </b> <br>
 
 The goal is to predict the forest cover type from strictly cartographic variables. The categorical independent variables were transformed using a label encoder. Both a random forest classifier and extreme gradient boost classifier model were used to predict forest cover type. The random forest classifier dramatically outperformed the extreme gradient boost model.
 
-<a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Diabetes%20Prediction.ipynb"> Forest cover </a> <br>
+<a href="https://github.com/Lhett2626/Lhett2626.github.io/blob/main/Forest_Cover_Classification.ipynb"> Forest cover </a> <br>
 <a href="https://nbviewer.org/github/Lhett2626/Lhett2626.github.io/blob/main/Forest_Cover_Classification.ipynb" target="_blank"> Forest cover NB </a>
 
 <b> Metro Interstate Traffic Volume </b> <br>
